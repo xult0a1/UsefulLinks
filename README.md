@@ -4,10 +4,10 @@ A collaboration of our useful links around da Interwebz
 
 
 Category | Topic | Count
------------- | ------------- | ------------- 
-All | all | 3
+------------ | ------------- | -------------
+All | All | 10
 [Computing](#computing) | [Hacking](#hacking) | 5
-[Cooking](#cooking) | all | 2
+[Cooking](#cooking) | All | 2
 
 > Note: By default, links open in this tab.
 
@@ -20,7 +20,7 @@ All | all | 3
 * [Exploit-DB](https://www.exploit-db.com/) - Ultimate archive of Exploits, Shellcode, and Security Papers
 ###### Videos
 * [Catalan Police Hack](https://vimeo.com/167411059) - FPVOD of the Catalan Police Union Hack
-###### Misc
+#### Misc
 * [C4](https://github.com/turbo/c4) - A plain-text list of a bunch of IP camera URLs
 * [CryMyIP](http://crymyip.com/) - A website that cries your IP
 * [Rekt List](https://pastebin.com/Vbdx9Lgq) - Tyrannosaurus Rekt

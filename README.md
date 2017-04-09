@@ -5,8 +5,10 @@ A collaboration of our useful links around da Interwebz
 
 Links | Count
 ------------ | -------------
-All | 3   
-[Hacking](#hacking) | 3
+All | 3
+Hacking   
+[Hacking (Resources)](#hacking) | 4
+[V]
 
 > Note: By default, links open in this tab.
 
@@ -20,7 +22,7 @@ All | 3
 ###### Videos
 * [Catalan Police Hack](https://vimeo.com/167411059) - FPVOD of the Catalan Police Union Hack
 ###### Misc
-* [c4](https://github.com/turbo/c4) - A plain-text list of a bunch of IP camera URLs
+* [C4](https://github.com/turbo/c4) - A plain-text list of a bunch of IP camera URLs
 * [CryMyIP](http://crymyip.com/) - A website that cries your IP
 * [Rekt List](https://pastebin.com/Vbdx9Lgq) - Tyrannosaurus Rekt
 

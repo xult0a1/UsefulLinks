@@ -15,9 +15,9 @@ All | All | 10
 #### Hacking
 ###### Resources
 * [Cybrary](https://cybrary.it) - Online Cyber Security Training
+* [Exploit-DB](https://www.exploit-db.com/) - Ultimate archive of Exploits, Shellcode, and Security Papers
 * [Hellbound Hackers](https://www.hellboundhackers.org/) - The hands-on approach to computer security
 * [TheHackerNews](http://thehackernews.com/) - Security in a serious way
-* [Exploit-DB](https://www.exploit-db.com/) - Ultimate archive of Exploits, Shellcode, and Security Papers
 ###### Videos
 * [Catalan Police Hack](https://vimeo.com/167411059) - FPVOD of the Catalan Police Union Hack
 #### Misc
@@ -26,5 +26,5 @@ All | All | 10
 * [Rekt List](https://pastebin.com/Vbdx9Lgq) - Tyrannosaurus Rekt
 
 ## Cooking
-* [Properly cook meats and veggies](http://i.imgur.com/i5mB3Ss.jpg)
 * [Poor Student's Cookbook](http://imgur.com/gallery/pHUdq)
+* [Properly cook meats and veggies](http://i.imgur.com/i5mB3Ss.jpg)

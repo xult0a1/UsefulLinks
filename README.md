@@ -6,4 +6,4 @@ By [CodeLuka](https://github.com/coderluka) and [TomislavPerich](https://github.
 
 ## Hacking
 ### Tutorials
-* [https://cybrary.it](Cybrary) - Online Cyber Security Training
+* [Cybrary](https://cybrary.it) - Online Cyber Security Training

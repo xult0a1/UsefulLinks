@@ -9,7 +9,7 @@ By [CodeLuka](https://github.com/coderluka) and [TomislavPerich](https://github.
 * [Cybrary](https://cybrary.it) - Online Cyber Security Training
 
 ### Forums
-* [Hellbound Hackers](https://www.hellboundhackers.org/) - TheHhnds-on approach to computer security
+* [Hellbound Hackers](https://www.hellboundhackers.org/) - The hands-on approach to computer security
 
 ### Blogs
 * [TheHackerNews](http://thehackernews.com/) - Security in a serious way

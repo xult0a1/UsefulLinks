@@ -7,3 +7,9 @@ By [CodeLuka](https://github.com/coderluka) and [TomislavPerich](https://github.
 ## Hacking
 ### Tutorials
 * [Cybrary](https://cybrary.it) - Online Cyber Security Training
+
+### Forums
+* [Hellbound Hackers](https://www.hellboundhackers.org/) - TheHhnds-on approach to computer security
+
+### Blogs
+* [TheHackerNews](http://thehackernews.com/) - Security in a serious way

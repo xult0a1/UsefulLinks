@@ -1,4 +1,4 @@
-<h1 style="text-align: center !important;">Useful Links</h1>
+<h1 style="align: center !important;">Useful Links</h1>
 A collaboration of our useful links around da Interwebz
 ###### By [CodeLuka](https://github.com/coderluka) and [TomislavPerich](https://github.com/tomislavperich)
 

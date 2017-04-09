@@ -45,11 +45,11 @@ All | All | 10
 * [Ninite](https://ninite.com/) - Install and update all your programs at once
 * [CloudConvert](https://cloudconvert.com/) - Convert anything to anything
 ###### Other
-http://archive.org/web/
 * [CryMyIP](http://crymyip.com/) - A website that cries your IP
 * [C4](https://github.com/turbo/c4) - A plain-text list of a bunch of IP camera URLs
 * [IsUp](http://isup.me/) - Is ____ down for everyone or just me?
 * [Rekt List](https://pastebin.com/Vbdx9Lgq) - Tyrannosaurus Rekt
+* [WaybackMachine](http://archive.org/web/) - Cached Internet pages
 
 
 ## Entertainment

@@ -3,12 +3,11 @@ A collaboration of our useful links around da Interwebz
 ###### By [CoderLuka](https://github.com/coderluka) and [TomislavPerich](https://github.com/tomislavperich)
 
 
-Links | Count
+Category | Topic | Count
 ------------ | -------------
-All | 3
-Hacking   
-[Hacking (Resources)](#hacking) | 4
-[V]
+All | all | 3
+[Computing](#computing) | [Hacking](#hacking) | 5
+[Cooking](#cooking) | all | 2
 
 > Note: By default, links open in this tab.
 

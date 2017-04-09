@@ -1,5 +1,6 @@
 # Useful Links
 A collaboration of our useful links around da Interwebz
+> Note: By default, links open in this tab.
 ###### By [CoderLuka](https://github.com/coderluka) and [TomislavPerich](https://github.com/tomislavperich)
 
 
@@ -9,7 +10,6 @@ All | All | 10
 [Computing](#computing) | [Hacking](#hacking) | 5
 [Cooking](#cooking) | All | 2
 
-> Note: By default, links open in this tab.
 
 ## Computing
 #### Hacking

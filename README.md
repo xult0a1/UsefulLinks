@@ -8,13 +8,20 @@ Links | Count
 All | 3   
 [Hacking](#hacking) | 3
 
+> Note: Links open in the same tab by default.
 
-## Hacking
+## Hacking [Computing]
 #### Tutorials
 * [Cybrary](https://cybrary.it) - Online Cyber Security Training
 
-#### Forums
+#### Forums [Computing]
 * [Hellbound Hackers](https://www.hellboundhackers.org/) - The hands-on approach to computer security
 
-#### Blogs
+#### Blogs [Computing]
 * [TheHackerNews](http://thehackernews.com/) - Security in a serious way
+
+#### Other [Computing]
+* [Exploit-DB](https://www.exploit-db.com/) - Ultimate archive of Exploits, Shellcode, and Security Papers
+
+## Misc [Computing]
+* [CryMyIP](http://crymyip.com/) - A website that cries your IP

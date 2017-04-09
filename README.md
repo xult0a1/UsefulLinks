@@ -1,6 +1,6 @@
 # Useful Links
 A collaboration of our useful links around da Interwebz
-###### By [CodeLuka](https://github.com/coderluka) and [TomislavPerich](https://github.com/tomislavperich)
+###### By [CoderLuka](https://github.com/coderluka) and [TomislavPerich](https://github.com/tomislavperich)
 
 
 Links | Count
@@ -8,7 +8,7 @@ Links | Count
 All | 3   
 [Hacking](#hacking) | 3
 
-> Note: Links open in the same tab by default.
+> Note: By default, links open in this tab.
 
 ## Computing
 #### Hacking

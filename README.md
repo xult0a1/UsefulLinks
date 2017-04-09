@@ -5,6 +5,7 @@ By [CodeLuka](https://github.com/coderluka) and [TomislavPerich](https://github.
 
 Links | Count
 ------------ | -------------
+All | 3
 Hacking | 3
 
 ## Hacking

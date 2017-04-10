@@ -7,13 +7,17 @@ Notes:
 - Most descriptions are quoted from the websites
 ```
 
-###### By [CoderLuka](https://github.com/coderluka),[TomislavPerich](https://github.com/tomislavperich), and friends.
+###### By [CoderLuka](https://github.com/coderluka), [TomislavPerich](https://github.com/tomislavperich), and friends.
 
 
 Category | Topic | Count
 ------------ | ------------- | -------------
 All | All | 10
-[Computing](#computing) | [Hacking](#hacking) | 5
+[Computing](#computing) | [Bitcoin](#bitcoin) | 24
+[Computing](#computing) | [Hacking](#hacking) | 7
+[Computing](#computing) | [Coding](#coding) | 7
+[Computing](#computing) | [OSs](#OSs) | 1
+[Computing](#computing) | [Misc](#Misc) | 14
 [Cooking](#cooking) | All | 2
 
 
@@ -87,6 +91,7 @@ All | All | 10
 * [CryMyIP](http://crymyip.com/) - A website that cries your IP
 * [C4](https://github.com/turbo/c4) - A plain-text list of a bunch of IP camera URLs
 * [IsUp](http://isup.me/) - Is ____ down for everyone or just me?
+* [MoreOfIt](http://www.moreofit.com/) - Find similar websites
 * [Rekt List](https://pastebin.com/Vbdx9Lgq) - Tyrannosaurus Rekt
 * [WaybackMachine](http://archive.org/web/) - Cached Internet pages
 

@@ -3,8 +3,8 @@ A collaboration of our useful links around da Interwebz
 
 ```
 Notes:
-- The descriptions are mostly quoted from websites
 - Links open in current tab by default
+- Most descriptions are quoted from the websites
 ```
 
 ###### By [CoderLuka](https://github.com/coderluka),[TomislavPerich](https://github.com/tomislavperich), and friends.

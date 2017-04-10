@@ -17,7 +17,7 @@ All | All | 10
 [Computing](#computing) | [Hacking](#hacking) | 7
 [Computing](#computing) | [Coding](#coding) | 7
 [Computing](#computing) | [OSs](#OSs) | 1
-[Computing](#computing) | [Misc](#misc#computing) | 14
+[Computing](#computing) | [Misc](#1) | 14
 [Entertainment](#entertainment) | [Music](#Music) | 4
 [Cooking](#cooking) | All | 3
 [Finance](#Finance) | All | 1
@@ -83,7 +83,8 @@ All | All | 10
 #### OSs
 * [FreeNAS](http://www.freenas.org/) - Open-source Storage OS
 
-#### Misc#computing
+#1
+#### Misc
 ###### Disposable Email Services
 * [10 Minute Mail](https://www.10minutemail.com)
 * [Mailinator](https://www.mailinator.com)

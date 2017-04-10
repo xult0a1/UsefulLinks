@@ -1,6 +1,12 @@
 # Useful Links
 A collaboration of our useful links around da Interwebz
-> Note: By default, links open in current tab.
+
+"""
+Notes:
+- The descriptions are mostly quoted from websites
+- Links open in current tab by default
+"""
+
 ###### By [CoderLuka](https://github.com/coderluka) and [TomislavPerich](https://github.com/tomislavperich)
 
 
@@ -72,6 +78,9 @@ All | All | 10
 ## Finance
 * [The Inflation Calculator](http://www.westegg.com/inflation/) - Adjusts any given amount of money for inflation, according to the Consumer Price Index, from 1800 to 2016
 
+## Health
+### Habits
+* [Sitting Healthy](http://www.drbookspan.com/SittingHealthy.html) - A guide to healthy sitting
 
 ## Household
 #### Repair
@@ -80,6 +89,8 @@ All | All | 10
 * [Why are my plants yellow](http://www.dailyinfographic.com/wp-content/uploads/2015/08/why-are-my-plants-yellow.jpg) - What's wrong with my plants
 
 ## Mathematics
+#### Learn Math
+* [BetterExplained](https://betterexplained.com/) - Instead of memorizing procedures, learn why equations work
 #### Misc
 * [Mathway](https://www.mathway.com/) - Solves math problems for you
 
@@ -89,3 +100,6 @@ All | All | 10
 
 
 ## Psychology
+
+## Other
+* [Zombo](http://html5zombo.com/) - You can do anything, the only limit is yourself

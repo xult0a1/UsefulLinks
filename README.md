@@ -17,7 +17,7 @@ All | All | 10
 [Computing](#computing) | [Hacking](#hacking) | 7
 [Computing](#computing) | [Coding](#coding) | 7
 [Computing](#computing) | [OSs](#OSs) | 1
-[Computing](#computing) | [Misc](#computing/misc) | 14
+[Computing](#computing) | [Misc](#misc-1) | 14
 [Entertainment](#entertainment) | [Music](#Music) | 4
 [Cooking](#cooking) | All | 3
 [Finance](#Finance) | All | 1

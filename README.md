@@ -1,11 +1,11 @@
 # Useful Links
 A collaboration of our useful links around da Interwebz
 
-"""
+```
 Notes:
 - The descriptions are mostly quoted from websites
 - Links open in current tab by default
-"""
+```
 
 ###### By [CoderLuka](https://github.com/coderluka) and [TomislavPerich](https://github.com/tomislavperich)
 

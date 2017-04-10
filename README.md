@@ -7,7 +7,7 @@ Notes:
 - Links open in current tab by default
 ```
 
-###### By [CoderLuka](https://github.com/coderluka) and [TomislavPerich](https://github.com/tomislavperich)
+###### By [CoderLuka](https://github.com/coderluka),[TomislavPerich](https://github.com/tomislavperich), and friends.
 
 
 Category | Topic | Count
@@ -18,6 +18,34 @@ All | All | 10
 
 
 ## Computing
+#### Bitcoin
+###### General
+* [Bitpay](https://bitpay.com) - Accept Bitcoins on your websites
+* [Synala](http://synala.com/) - Accept Bitcoins on your websites
+* [Bitsquare](https://bitsquare.io/) - Decentralized Bitcoin exchange
+* [Coin ATM Radar](https://coinatmradar.com/) - Bitcoin ATM Map
+* [CoinMap](https://coinmap.org/) - Bitcoin accepting venue
+* [Bitwage](https://www.bitwage.com/) - Receive paychecks in Bitcoin
+* [Xapo Card](https://www.xapo.com/card/) - Bitcoin debit card
+###### Goods
+* [Namecheap](https://www.namecheap.com/) - Buy domain names with Bitcoin
+* [Bitcoin VPSs](http://cryto.net/~joepie91/bitcoinvps.html	) - A list of VPS hosts that accept Bitcoin
+* [Dtmf](https://dtmf.io/) - Call/SMS from browser with Bitcoin
+* [Numberproxy](https://numberproxy.com/) - Call/SMS from browser with Bitcoin
+* [Instavcc](https://instavcc.com/) - Call/SMS from browser with Bitcoin
+* [Spendabit](https://spendabit.co/	) - Buy stuff with Bitcoin
+* [SteamBitShop](https://steambitshop.com/) - Buy Steam games with Bitcoin
+* [G2A](https://www.g2a.com/) - Buy Steam games with Bitcoin
+* [Kinguin](https://www.kinguin.net/) - Buy Steam games with Bitcoin
+* [Bitrefill](https://www.bitrefill.com/) - Prepaid phone top-up with Bitcoin
+* [Bitwala](https://www.bitwala.io/prepaid-mobile-phone-top-up-bitcoin/) - Prepaid phone top-up with Bitcoin
+###### Wallets
+* [Coinomi](https://coinomi.com/) - A multi-currency wallet
+* [Exodus](https://www.exodus.io/) - A multi-currency wallet
+* [BitcoinTrezor](https://www.bitcointrezor.com/) - A secure Bitcoin hardware wallet
+* [MyCelium](https://mycelium.com/) - Portable/desktop wallet
+* [SamouraiWallet](https://samouraiwallet.com/) - Portable/desktop wallet
+* [Electrum](https://electrum.org) - Portable/desktop wallet
 
 #### Hacking
 ###### Resources
@@ -29,16 +57,20 @@ All | All | 10
 * [Catalan Police Hack](https://vimeo.com/167411059) - FPVOD of the Catalan Police Union Hack
 ###### Misc
 * [HaveIBeenPwned](https://haveibeenpwned.com/) - Check if you have an account that has been compromised in a data breach
+* [ProxySearcher](http://proxysearcher.sourceforge.net/) - Proxy search engine
 
 #### Coding
 ###### Learn to code
 * [CodeCademy](https://www.codecademy.com/) - Learn to code interactively, for free
-* [TheNewBoston](https://thenewboston.com/) - Video tutorials on programming and more
 * [FreeCodeCamp](https://www.freecodecamp.com/) - Learn to code and help nonprofits
+* [TheNewBoston](https://thenewboston.com/) - Video tutorials on programming and more
 ###### Web Development
-* [CodeMuUI](https://codemyui.com/) - Lots of examples of beautiful web elements for inspiration
+* [CodeMyUI](https://codemyui.com/) - Lots of examples of beautiful web elements for inspiration
 ###### Other
 * [DirtyMarkup](https://dirtymarkup.com/) - Cleans up your code
+
+#### OSs
+* [FreeNAS](http://www.freenas.org/) - Open-source Storage OS
 
 #### Misc
 ###### Disposable Email Services
@@ -48,8 +80,9 @@ All | All | 10
 * [Guerrilla Mail](https://guerrillamail.com)
 * [Maildrop](https://www.maildrop.cc/)
 ###### Tools
-* [Ninite](https://ninite.com/) - Install and update all your programs at once
 * [CloudConvert](https://cloudconvert.com/) - Convert anything to anything
+* [Ninite](https://ninite.com/) - Install and update all your programs at once
+* [ShareX](https://getsharex.com/) - (Advanced) Screen capture, file sharing and productivity tool
 ###### Other
 * [CryMyIP](http://crymyip.com/) - A website that cries your IP
 * [C4](https://github.com/turbo/c4) - A plain-text list of a bunch of IP camera URLs
@@ -59,7 +92,6 @@ All | All | 10
 
 
 ## Entertainment
-
 #### Music
 ###### Find music
 * [GNOD](http://www.gnod.com/) -  Rеcommеnds muѕic, books and movіes based on stuff you like

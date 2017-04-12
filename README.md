@@ -30,8 +30,8 @@ All | All | 10
 
 
 ## Computing
-  #### Bitcoin
-      ###### General
+#### Bitcoin
+###### General
 * [Bitpay](https://bitpay.com) - Accept Bitcoins on your websites
 * [Synala](http://synala.com/) - Accept Bitcoins on your websites
 * [Bitsquare](https://bitsquare.io/) - Decentralized Bitcoin exchange

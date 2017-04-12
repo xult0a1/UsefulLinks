@@ -14,10 +14,11 @@ Category | Topic | Count
 ------------ | ------------- | -------------
 All | All | 10
 [Computing](#computing) | [Bitcoin](#bitcoin) | 24
-[Computing](#computing) | [Hacking](#hacking) | 7
 [Computing](#computing) | [Coding](#coding) | 7
+[Computing](#computing) | [Hacking](#hacking) | 7
 [Computing](#computing) | [OSs](#OSs) | 1
-[Computing](#computing) | [Misc](#misc-1) | 14
+[Computing](#computing) | [Privacy](#) | 6
+[Computing](#computing) | [Misc](#misc-1) | 9
 [Entertainment](#entertainment) | [Music](#Music) | 4
 [Cooking](#cooking) | All | 3
 [Finance](#Finance) | All | 1
@@ -58,18 +59,6 @@ All | All | 10
 * [SamouraiWallet](https://samouraiwallet.com/) - Portable/desktop wallet
 * [Electrum](https://electrum.org) - Portable/desktop wallet
 
-#### Hacking
-###### Resources
-* [Cybrary](https://cybrary.it) - Online Cyber Security Training
-* [Exploit-DB](https://www.exploit-db.com/) - Ultimate archive of Exploits, Shellcode, and Security Papers
-* [Hellbound Hackers](https://www.hellboundhackers.org/) - The hands-on approach to computer security
-* [TheHackerNews](http://thehackernews.com/) - Security in a serious way
-###### Videos
-* [Catalan Police Hack](https://vimeo.com/167411059) - FPVOD of the Catalan Police Union Hack
-###### Misc
-* [HaveIBeenPwned](https://haveibeenpwned.com/) - Check if you have an account that has been compromised in a data breach
-* [ProxySearcher](http://proxysearcher.sourceforge.net/) - Proxy search engine
-
 #### Coding
 ###### Learn to code
 * [CodeCademy](https://www.codecademy.com/) - Learn to code interactively, for free
@@ -83,13 +72,31 @@ All | All | 10
 #### OSs
 * [FreeNAS](http://www.freenas.org/) - Open-source Storage OS
 
-#### Misc
+#### Hacking
+###### Resources
+* [Cybrary](https://cybrary.it) - Online Cyber Security Training
+* [Exploit-DB](https://www.exploit-db.com/) - Ultimate archive of Exploits, Shellcode, and Security Papers
+* [Hellbound Hackers](https://www.hellboundhackers.org/) - The hands-on approach to computer security
+* [TheHackerNews](http://thehackernews.com/) - Security in a serious way
+###### Videos
+* [Catalan Police Hack](https://vimeo.com/167411059) - FPVOD of the Catalan Police Union Hack
+###### Misc
+* [HaveIBeenPwned](https://haveibeenpwned.com/) - Check if you have an account that has been compromised in a data breach
+* [ProxySearcher](http://proxysearcher.sourceforge.net/) - Proxy search engine
+
+#### Privacy and Anonymity
+###### Email services
+* [ProtonMail](https://protonmail.com) - Secure Your Communications with ProtonMail
+
 ###### Disposable Email Services
 * [10 Minute Mail](https://www.10minutemail.com)
 * [Mailinator](https://www.mailinator.com)
 * [TrashMail](http://www.trashmail.org/)
 * [Guerrilla Mail](https://guerrillamail.com)
 * [Maildrop](https://www.maildrop.cc/)
+
+
+#### Misc
 ###### Tools
 * [CloudConvert](https://cloudconvert.com/) - Convert anything to anything
 * [Ninite](https://ninite.com/) - Install and update all your programs at once

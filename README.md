@@ -66,6 +66,7 @@ All | All | 10
 * [TheNewBoston](https://thenewboston.com/) - Video tutorials on programming and more
 ###### Web Development
 * [CodeMyUI](https://codemyui.com/) - Lots of examples of beautiful web elements for inspiration
+* [FlatUIColors](http://flatuicolors.com/) - Color palette from Flat UI theme
 ###### Other
 * [DirtyMarkup](https://dirtymarkup.com/) - Cleans up your code
 

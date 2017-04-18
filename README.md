@@ -14,7 +14,7 @@ Category | Topic | Count
 ------------ | ------------- | -------------
 All | All | 10
 [Computing](#computing) | [Bitcoin](#bitcoin) | 24
-[Computing](#computing) | [Coding](#coding) | 8
+[Computing](#computing) | [Coding](#coding) | 6
 [Computing](#computing) | [Hacking](#hacking) | 7
 [Computing](#computing) | [OSs](#OSs) | 1
 [Computing](#computing) | [Privacy](#) | 6

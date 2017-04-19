@@ -1,4 +1,4 @@
-# Useful Links
+# Really Useful Links
 A collaboration of our useful links around da Interwebz
 
 ```
@@ -11,7 +11,7 @@ Notes:
 
 
 Category | Topic | Count
------------- | ------------- | -------------
+------------ | ------------- | ------------- |
 All | All | 10
 [Computing](#computing) | [Bitcoin](#bitcoin) | 24
 [Computing](#computing) | [Coding](#coding) | 6
@@ -67,11 +67,11 @@ All | All | 10
 ###### Web Development
 * [CodeMyUI](https://codemyui.com/) - Lots of examples of beautiful web elements for inspiration
 * [FlatUIColors](http://flatuicolors.com/) - Color palette from Flat UI theme
-###### Other
-* [DirtyMarkup](https://dirtymarkup.com/) - Cleans up your code
 
 #### OSs
 * [FreeNAS](http://www.freenas.org/) - Open-source Storage OS
+* [DistroWatch](http://distrowatch.com/) - Pick your distro
+
 
 #### Hacking
 ###### Resources
@@ -84,6 +84,9 @@ All | All | 10
 ###### Misc
 * [HaveIBeenPwned](https://haveibeenpwned.com/) - Check if you have an account that has been compromised in a data breach
 * [ProxySearcher](http://proxysearcher.sourceforge.net/) - Proxy search engine
+
+#### Security
+* [KeyScrambler](http://www.qfxsoftware.com/) - The most effective anti-keylogging software
 
 #### Privacy and Anonymity
 ###### Email services
